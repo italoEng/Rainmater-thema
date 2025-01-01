@@ -29,7 +29,7 @@ RotationAngle=([MeasureCPU] * 6.283185 / 100);
 AntiAlias=1
 
 ; Posição do texto
-[meterLabelCPU]
+[meterLabel]
 Meter=String
 MeterStyle=styleLeftText
 X=50
