@@ -4,3 +4,5 @@ Ram:
 SSD: https://www.flaticon.com/free-icon/ssd_7815011?term=ssd&page=1&position=17&origin=search&related_id=7815011
 GPU:
 Settings: https://www.flaticon.com/free-icon/gear_1160356?term=settings&page=1&position=60&origin=search&related_id=1160356
+Close: https://www.flaticon.com/free-icon/x-mark_1617543
+Square: https://www.flaticon.com/free-icon/rounded-black-square-shape_25394?term=square&page=1&position=3&origin=search&related_id=25394
