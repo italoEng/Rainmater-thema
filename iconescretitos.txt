@@ -1,6 +1,6 @@
 
 CPU: https://www.flaticon.com/free-icon/chip_1694596
-Ram:
+Ram: https://www.flaticon.com/free-icon/chip_1716176?term=ram&page=2&position=40&origin=search&related_id=1716176
 SSD: https://www.flaticon.com/free-icon/ssd_7815011?term=ssd&page=1&position=17&origin=search&related_id=7815011
 GPU:
 Settings: https://www.flaticon.com/free-icon/gear_1160356?term=settings&page=1&position=60&origin=search&related_id=1160356

@@ -13,7 +13,8 @@ function ChangeColor(option)
     -- Lista de skins para atualizar
     local skins = {
         {name = "Settings", path = "#ROOTCONFIGPATH#Settings\\Settings.ini"},
-        {name = "CPU", path = "#ROOTCONFIGPATH#CPU\\CPU.ini"}
+        {name = "CPU", path = "#ROOTCONFIGPATH#CPU\\CPU.ini"},
+        {name = "RAM", path = "#ROOTCONFIGPATH#RAM\\RAM.ini"}
     }
 
     -- Atualiza cada skin na lista
@@ -22,3 +23,4 @@ function ChangeColor(option)
         SKIN:Bang("!Refresh", "Fbz001\\" .. skin.name)
     end
 end
+
