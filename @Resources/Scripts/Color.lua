@@ -14,7 +14,9 @@ function ChangeColor(option)
     local skins = {
         {name = "Settings", path = "#ROOTCONFIGPATH#Settings\\Settings.ini"},
         {name = "CPU", path = "#ROOTCONFIGPATH#CPU\\CPU.ini"},
-        {name = "RAM", path = "#ROOTCONFIGPATH#RAM\\RAM.ini"}
+        {name = "RAM", path = "#ROOTCONFIGPATH#RAM\\RAM.ini"},
+        {name = "GPU", path = "#ROOTCONFIGPATH#GPU\\GPU.ini"}
+
     }
 
     -- Atualiza cada skin na lista

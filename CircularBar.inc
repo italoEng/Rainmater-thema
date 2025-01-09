@@ -1,14 +1,14 @@
 ; Barra circular de fundo
 [styleCircularBar]
 Meter=Roundline
-X=50
-Y=50
+X=37.5
+Y=37.5
 W=50
 H=50
 Solid=1
 LineColor=255,255,255,50
-LineStart=65
-LineLength=60
+LineStart=55
+LineLength=50
 StartAngle=4.712388
 RotationAngle=6.283185
 AntiAlias=1
@@ -17,16 +17,16 @@ AntiAlias=1
 [MeterCircularBar]
 Meter=Roundline
 MeasureName=#MeasureName#
-X=50
-Y=50
+X=37.5
+Y=37.5
 W=50
 H=50
 LineColor=#FontColor#
 Solid=1
 Hidden=0
 AntiAlias=1
-LineStart=65
-LineLength=60
+LineStart=55
+LineLength=50
 StartAngle=4.712388  ; Posição inicial
 RotationAngle=(#MeasureName# * 6.283185 / 100);
 AntiAlias=1
@@ -36,22 +36,20 @@ AntiAlias=1
 [meterLabel]
 Meter=String
 MeterStyle=styleLeftText
+StringAlign=Center
 DynamicVariables=1
-X=55
-Y=25
-W=190
-H=14
+X=60
+Y=20
+
 
 ; Posição do valor
 [meterValue]
 Meter=String
-StringAlign=Center
+StringAlign=right
 MeterStyle=styleRightText
 X=80
-Y=100
-W=190
-H=14
-Text=%1%
+Y=85
+Text=[#TextMeasureName#:0]%
 DynamicVariables=1
 
 ; Posição icone
@@ -59,6 +57,6 @@ DynamicVariables=1
 Meter=Image
 MeterStyle=SimpleImage
 ImageTint=#FontColor#
-X = 57
-Y = 55
+X = 45
+Y = 45
 W = 35
