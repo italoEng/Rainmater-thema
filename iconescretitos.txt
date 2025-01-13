@@ -6,3 +6,5 @@ GPU:
 Settings: https://www.flaticon.com/free-icon/gear_1160356?term=settings&page=1&position=60&origin=search&related_id=1160356
 Close: https://www.flaticon.com/free-icon/x-mark_1617543
 Square: https://www.flaticon.com/free-icon/rounded-black-square-shape_25394?term=square&page=1&position=3&origin=search&related_id=25394
+Size small: https://www.flaticon.com/free-icon/reduce_1837537?term=small&page=1&position=6&origin=search&related_id=1837537
+Size big: https://www.flaticon.com/free-icon/resize_9534492?related_id=9534492
