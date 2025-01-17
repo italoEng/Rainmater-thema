@@ -25,7 +25,7 @@ function B(option)
         {name = "CPU", path = "#ROOTCONFIGPATH#CPU\\CPU.ini"},
         {name = "RAM", path = "#ROOTCONFIGPATH#RAM\\RAM.ini"},
         {name = "GPU", path = "#ROOTCONFIGPATH#GPU\\GPU.ini"},
-        {name = "CircularBar", path = "#ROOTCONFIGPATH#\\CircularBar.ini"},
+        {name = "CircularBar", path = "#ROOTCONFIGPATH#\\CircularBar.ini"}
 
     }
 

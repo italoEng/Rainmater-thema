@@ -15,7 +15,9 @@ function ChangeColor(option)
         {name = "Settings", path = "#ROOTCONFIGPATH#Settings\\Settings.ini"},
         {name = "CPU", path = "#ROOTCONFIGPATH#CPU\\CPU.ini"},
         {name = "RAM", path = "#ROOTCONFIGPATH#RAM\\RAM.ini"},
-        {name = "GPU", path = "#ROOTCONFIGPATH#GPU\\GPU.ini"}
+        {name = "GPU", path = "#ROOTCONFIGPATH#GPU\\GPU.ini"},
+        {name = "HDD", path = "#ROOTCONFIGPATH#HDD\\HDD.ini"},
+
 
     }
 
