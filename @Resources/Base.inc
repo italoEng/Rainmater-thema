@@ -2,7 +2,7 @@
 FontFace=wonderly
 StringAlign=Center
 AntiAlias=1
-;size1
+;size1 Circular Bar -------------------------------------------------------------------------------
 Size1=11
 Iconsize1=25
 Iconx1=32
@@ -16,7 +16,7 @@ porcentagemy1=61
 textx1=43
 texty1=14
 optionValue1=Rectangle 0,0,90,90,10 | Fillcolor 29,30,36,240 | Strokewidth 2 | StrokeColor 29,30,36
-;size2
+;size2 Circular Bar -------------------------------------------------------------------------------
 Size2=15
 Iconsize2=35
 Iconx2=45
@@ -30,7 +30,7 @@ porcentagemy2=85
 textx2=60
 texty2=20
 optionValue2=Rectangle 0,0,125,125,10 | Fillcolor 29,30,36,240 | Strokewidth 2 | StrokeColor 29,30,36
-;color
+;color ----------------------------------------------------------------------------------------------
 Color1=255,255,255
 Color2=255,0,0
 Color3=0,128,128

@@ -2,7 +2,7 @@ function Initialize()
     -- Inicialização do script
 end
 
-function B(option)
+function BCircularBar(option)
     -- Determina a cor com base na opção selecionada
     local optionValue = SKIN:GetVariable("optionValue" .. option)
     local sizeValue = SKIN:GetVariable("Size" .. option)
